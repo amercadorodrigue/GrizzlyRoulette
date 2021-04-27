@@ -1,7 +1,7 @@
 # Grizzly Roulette
 ![An image](https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/generated_List.png?raw=true) <!-- .element height="25%" width="25%" -->
 ![An image](https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/about_page.png?raw=true) 
-<img src="https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/about_page.png?raw=true" width="40%">.
+<img src="https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/about_page.png?raw=true" width="20%" height="20%">.
 
 ## About this Project
 
