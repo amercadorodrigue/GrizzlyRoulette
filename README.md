@@ -1,5 +1,5 @@
 # Grizzly Roulette
-![alt text](https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/generated List.png?raw=true)
+![alt text](https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/generated_List.png?raw=true)
 
 ## About this Project
 
