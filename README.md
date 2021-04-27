@@ -13,5 +13,6 @@ remove or a hide a name and clear, shuffle, or a sort the list.
 ## Getting Started
 
 Clone and install repo. 
-Install Install Android Studio, Flutter SDK and flutter/dart plugins in AS.
-Create an emulator (or use your own device) and launch the app. 
+- Install Install Android Studio, Flutter SDK and flutter/dart plugins in AS.
+- Create an emulator (or use your own device) 
+- Launch the app. 
