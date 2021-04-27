@@ -1,6 +1,6 @@
 # Grizzly Roulette
 ![An image](https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/generated_List.png?raw=true) <!-- .element height="25%" width="25%" -->
-![An image](https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/about_page.png?raw=true) <!-- .element height="25%" width="25%" -->
+![An image](https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/about_page.png?raw=true) 
 ## About this Project
 
 This project is the final project for my Mobile Application Development class, Spring 2021.
