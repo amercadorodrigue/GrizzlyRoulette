@@ -1,6 +1,6 @@
 # Grizzly Roulette
-<img src="https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/generated_List.png?raw=true" width="20%" height="20%">
-<img src="https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/about_page.png?raw=true" width="20%" height="20%">
+<img src="https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/generated_List.png?raw=true" width="20%" height="20%">.
+<img src="https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/about_page.png?raw=true" width="20%" height="20%">.
 
 ### [Demo Video](https://youtu.be/pYfk1YaBGuM)
 ### [Via Page](https://www.vialivetext.com/portfolios/reference/#/portfolios/6010b852c6e5265866b47379/reference/60870d870b2be074dc54b926?reference_component_id=livetext-resource-activity-timeline-1-0-0-1&root_portfolio_id=6010b852c6e5265866b47379)
