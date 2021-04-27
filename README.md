@@ -1,6 +1,6 @@
 # Grizzly Roulette
 <img src="https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/generated_List.png?raw=true" width="20%" height="20%">.
-<img src="https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/about_page.png?raw=true" width="25%" height="25%">.
+<img src="https://github.com/amercadorodrigue/GrizzlyRoulette/blob/master/about_page.png?raw=true" width="21%" height="21%">.
 
 ## About this Project
 
